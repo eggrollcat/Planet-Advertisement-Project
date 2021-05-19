@@ -9,7 +9,7 @@ Download the code:
 1. Click on the green Code button above
 2. Download ZIP
 3. Extract the download folder
-4. Click on the 'tictactoe.html' file to start the game
+4. Click on the 'index.html' file
 5. The file should open in a web brower. You can alternatively right-click and open in a  
 browser of your choice
 
