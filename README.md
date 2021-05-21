@@ -19,6 +19,6 @@ Alternatively use this link to access the application online.
 ### Resources
 
 Online Resources:  
-[Bootstrap](https://getbootstrap.com/)
-[The Nine Planets | Mercury Facts](https://nineplanets.org/mercury/)
+[Bootstrap](https://getbootstrap.com/)  
+[The Nine Planets | Mercury Facts](https://nineplanets.org/mercury/)  
 [Space Facts | Mercury Facts](https://space-facts.com/mercury/)
