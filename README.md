@@ -1,6 +1,6 @@
 # Planet-Advertisement-Project
 
-Static webiste advertising planet Mercury.
+Static website advertising planet Mercury.
 
 ### Instructions
 
@@ -14,11 +14,11 @@ Download the code:
 browser of your choice
 
 Alternatively use this link to access the application online.  
-[Mercury](https://codepen.io/eggrollcat/pen/rNLLyeP)
+[Mercury](https://codepen.io/eggrollcat/full/qBrRKZP)
 
 ### Resources
 
 Online Resources:  
-[W3Schools](https://www.w3schools.com/)  
 [Bootstrap](https://getbootstrap.com/)
-
+[The Nine Planets | Mercury Facts](https://nineplanets.org/mercury/)
+[Space Facts | Mercury Facts](https://space-facts.com/mercury/)
